@@ -1,0 +1,50 @@
+/* Cascading Stylesheets */
+/* CSS selector */
+
+nav {
+	position: relative;
+	display: inline-block;
+	height: 40px;
+	width: 100%;
+	background-color: tomato;
+	text-align: center;
+}
+
+.navigation ul, .navigation li {
+	display: inline;
+	position: relative;
+}
+
+.navigation a {
+	text-decoration: none;
+	color: black;
+}
+
+.navigation a:hover {
+	background-color: black;
+	border: 1px solid yellow;
+	/*makes the transition to the hover effect slower! */
+	transition: .5s ease;
+	color: white;
+	font-size: 20px;
+}
+div.button {
+	text-align: center;
+}
+
+button {
+	border: none;
+	box-shadow: 0;
+	background-color: #7396ce;
+	border-radius: 5px;
+	color: gray;
+	/* moves the text of the button and makes the background bigger*/
+	padding: 5px;
+	
+}
+
+button:hover {
+	color: white;
+	background-color: #326fd1;
+
+}
