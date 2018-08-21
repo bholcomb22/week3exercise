@@ -1,0 +1,23 @@
+/* Cascading Stylesheets */
+/* CSS selector */
+
+.jumbotron {
+	background-image: url(../img/avengers.jpg);
+	background-size: cover;
+
+}
+
+.jumbotron > div {
+	background-color: rgba(255,255,255,.65)
+}
+
+#featured img {
+	height: 500px;
+	object-fit: cover;
+}
+
+#carouselExampleControls {
+	height: 400px;
+	overflow: hidden;
+	object-fit: cover;
+}
