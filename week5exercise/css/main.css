@@ -1,0 +1,7 @@
+/* Cascading Stylesheets */
+/* CSS selector */
+/* I gave the navbar an id and also took out the bootstrap bg-danger to change the color. just taking out the bg color and selecting nav works as well*/
+#navigate {
+background-color: orange;
+}
+
