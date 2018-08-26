@@ -1,0 +1,121 @@
+/* Cascading Stylesheets */
+/* CSS selector */
+body {
+	font-size: 14px;
+}
+#nav {
+	background-color: #a3cfd8;
+}
+
+#first {
+	background-color: #a3cfd8;
+}
+
+#green {
+	background-color: #9ad3a6;
+	box-sizing: border-box;
+}
+
+#green p {
+	padding-left: 30%;
+	padding-right: 30%;
+}
+
+#pill {
+	background-color: #9ad3a6;
+}
+
+.annoying {
+	color: white;
+}
+
+.annoying:hover {
+	border: 3px solid white;
+	color: white;
+}
+
+#work {
+	background-color: #9ad3a6;
+}
+
+.ughh {
+	background-color: white;
+	color: gray;
+	height: 40px;
+	margin-bottom: 30px;
+	border-radius: 5px;
+
+}
+
+#gray {
+	background-color: lightgray;
+}
+
+hr {
+	width: 70%;
+}
+
+#woah {
+	background-color: #9ad3a6;
+}
+
+#wee {
+	background-color: #a7d3dc;
+}
+
+#pink {
+	background-color: #dfb4c5;
+}
+
+#pink p {
+	margin-right: 25%;
+	margin-left: 25%;
+}
+
+p.card-text {
+	margin: 0;
+}
+
+.icons i {
+	font-size: 40px;
+	padding: 0 5px;
+}
+
+.facebook {
+	color: blue;
+}
+.twitter {
+	color: lightblue;
+}
+.pinterest {
+	color: red;
+}
+
+#blue {
+	background-color: #b5d5e0;
+}
+#blue p {
+	margin-right: 25%;
+	margin-left: 25%;
+}
+
+#yeehaw {
+	color: #b5d5e0;
+}
+
+#dark {
+	background-color: #3b3b3b
+}
+
+.dude {
+	font-size: 30px;
+	text-align: left;
+}
+
+.dude i {
+	padding-left: 1%;
+}
+
+.yellow {
+	color: yellow;
+}
